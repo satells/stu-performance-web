@@ -1,3 +1,4 @@
+console.log("fdsaf");
 function suportaTransform() {
 	var el = document.createElement('div');
 	return el.style['transform'] !== undefined || el.style['WebkitTransform'] !== undefined;
