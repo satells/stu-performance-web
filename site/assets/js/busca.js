@@ -1,3 +1,4 @@
+console.log("fdsa");
 window.addEventListener('load', function() {
 	var botaoBusca = document.querySelector('.header-busca');
 	var body = document.body;
